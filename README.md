@@ -1,1 +1,1 @@
-# SMBGhost-Full-RCE
+# CVE-2020-0796 SMBGhost-Full-RCE
